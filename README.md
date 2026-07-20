@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me 👋
+I am John Lawrence, lead grain researcher at AGI-Ag Growth International, Lenexa, KS. I am learning Github now.
 <!--
 **johnselvakumar01/johnselvakumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
